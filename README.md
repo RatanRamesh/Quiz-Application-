@@ -1,4 +1,4 @@
-# Quiz-Application
+# Quiz-Application-Java
 Developed Backend Java Quiz Application using Spring Boot Framework.
 
 # Quiz Application using Java Spring Boot
